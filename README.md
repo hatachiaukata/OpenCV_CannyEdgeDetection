@@ -8,3 +8,5 @@ Thực hiện xử lí thay đổi màu toàn bộ ảnh thành màu xám bằng
 In ra hình Gốc sau khi xử lí để so sánh.
 Thực hiện xử lí nhận biết các cạnh Canny bằng cách sử dụng lệnh edges trong imshow().
 In ra hình kết quả để thực hiện so sánh.
+
+![CannyEdgeDetection on Colab](https://github.com/hatachiaukata/OpenCV_CannyEdgeDetection/assets/92984721/e0eb0d34-0455-4a25-b3ac-4104db54ae58)

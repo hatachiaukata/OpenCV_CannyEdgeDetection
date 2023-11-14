@@ -10,3 +10,5 @@ Thực hiện xử lí nhận biết các cạnh Canny bằng cách sử dụng 
 In ra hình kết quả để thực hiện so sánh.
 
 ![CannyEdgeDetection on Colab](https://github.com/hatachiaukata/OpenCV_CannyEdgeDetection/assets/92984721/e0eb0d34-0455-4a25-b3ac-4104db54ae58)
+![Tkinter UI Unprocessed Image](https://github.com/hatachiaukata/OpenCV_CannyEdgeDetection/assets/92984721/1e174d27-32e8-4307-bf4c-789d3c613366)
+![Tkinter UI Canny Edge Image](https://github.com/hatachiaukata/OpenCV_CannyEdgeDetection/assets/92984721/7c871135-218f-4c1c-825f-01e7fdba286f)
